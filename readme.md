@@ -1,7 +1,7 @@
 # js redos finder
 * This project is designed to automatically detect ReDoS (Regular Expression Denial of Service) vulnerabilities within npm packages. The tool depends on recheck and nodejs.
 * Based on the programme https://github.com/makenowjust-labs/recheck.
-* korean translate: https://github.com/yuhano/js-redos-finder/readme_kr.md
+* korean translate: https://github.com/yuhano/js-redos-finder/blob/main/readme_kr.md
 
 
 ## Key Features
